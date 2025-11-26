@@ -1,5 +1,4 @@
 import os
-import boto3
 import pandas as pd
 import dash
 from dash import dcc, html
